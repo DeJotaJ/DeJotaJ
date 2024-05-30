@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="center">
+<p align="">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true&theme=tokyonight"
