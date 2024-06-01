@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/djavan-oliveira-0852b0164/])
 
 <br>
-<p align="center">
+<p align="">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true&theme=tokyonight"
