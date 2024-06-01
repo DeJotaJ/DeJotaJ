@@ -21,7 +21,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true" />
 </picture>
-  <img height="125em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
