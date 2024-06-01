@@ -18,9 +18,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=dejotaj&layout=compact&show_icons=true" />
+  <img height="200em" width="800em" src="https://github-readme-stats.vercel.app/api?username=dejotaj&layout=compact&show_icons=true" />
 </picture>
-  <img height="205em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="205em" width="800em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
