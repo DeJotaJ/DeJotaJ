@@ -20,7 +20,7 @@
   />
   <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api?username=dejotaj&layout=compact&show_icons=true" />
 </picture>
-  <img height="210em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="200em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
