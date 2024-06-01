@@ -8,19 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/djavan-oliveira-0852b0164/])
 
 <br>
-<p align="">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img height="200em" width="800em" src="https://github-readme-stats.vercel.app/api?username=dejotaj&layout=compact&show_icons=true" />
-</picture>
-  <img height="205em" width="800em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="350">
+</p>
+<p align="center">
+<a href="https://github.com/AneFernaandes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dejotaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
