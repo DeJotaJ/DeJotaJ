@@ -8,13 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/djavan-oliveira-0852b0164/])
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dejotaj" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dejotaj&layout=compact&langs_count=8&card_width=220" />
-</a>
-<!--p align="">
+<p align="">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true&theme=tokyonight"
@@ -24,11 +18,11 @@
     srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dejotaj&layout=compact&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dejotaj&layout=compact&show_icons=true" />
 </picture>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
-</p-->
+</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
