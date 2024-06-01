@@ -8,8 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/djavan-oliveira-0852b0164/])
 
 <br>
-
-<p align="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+<!--p align="">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dejotaj&show_icons=true&theme=tokyonight"
@@ -23,7 +28,7 @@
 </picture>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
-</p>
+</p-->
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
