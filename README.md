@@ -12,7 +12,7 @@
   <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="350">
 </p>
 <p align="center">
-<a href="https://github.com/AneFernaandes">
+<a href="https://github.com/DeJotaJ">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dejotaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
