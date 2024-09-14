@@ -15,7 +15,7 @@
 <a href="https://github.com/DeJotaJ">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dejotaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&theme=tokyonight&ring=00DD00&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&theme=tokyonight&ring=A020F0&fire=FFFFFF&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak"/>
   <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&theme=tokyonight&ring=0099DD&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak"/-->
   </a>
 </p>
