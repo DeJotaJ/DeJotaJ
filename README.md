@@ -13,10 +13,10 @@
 </p>
 <p align="center">
 <a href="https://github.com/DeJotaJ">
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dejotaj&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&layout=compact&theme=tokyonight&ring=70a5fd&fire=a020f0&currStreakLabel=FFFFFF&background=000000" alt="GitHub Streak"/>
-  <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&theme=tokyonight&ring=0099DD&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak"/-->
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dejotaj&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dejotaj&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&layout=compact&theme=tokyonight&ring=70a5fd&fire=a020f0&currStreakLabel=FFFFFF&background=000000" alt="GitHub Streak"/>
+  <!--img src="ht0tps://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&theme=tokyonight&ring=0099DD&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak"/-->
   </a>
 </p>
 </p>
