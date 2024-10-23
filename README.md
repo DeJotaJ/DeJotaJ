@@ -2,7 +2,7 @@
 
 
 
-<h4>Atualmente tenho 22 anos. Meu primeiro contato com a programação ocorreu durante o curso técnico que fiz, o qual foi integrado ao ensino médio. Durante esse período, explorei o desenvolvimento para desktop, mobile e web. Decidi me dedicar para me tornar um dev Full Stack.</h4>
+<h4>Atualmente tenho 22 anos. Meu primeiro contato com programação foi em um curso técnico integrado ao ensino médio que fiz, explorando desenvolvimento desktop, mobile e web, decidi seguir na área de FullStack.</h4>
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_odejota/)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/djavan-oliveira-0852b0164/])
