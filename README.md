@@ -13,8 +13,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/DeJotaJ">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeJotaJ&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeJotaJ&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeJotaJ&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeJotaJ&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&layout=compact&theme=tokyonight&ring=70a5fd&fire=a020f0&currStreakLabel=FFFFFF&background=000000" alt="GitHub Streak"/>
   <!--img src="h80tps://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&theme=tokyonight&ring=0099DD&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak"/-->
   </a>
