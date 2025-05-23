@@ -2,21 +2,18 @@
 
 
 
-<h4>Meu primeiro contato com programação foi em um curso técnico integrado ao ensino médio que fiz, explorando desenvolvimento desktop, mobile e web, decidi seguir na área de FullStack.</h4>
+<h4>Meu primeiro contato com programação foi em um curso técnico integrado ao ensino médio, explorando desenvolvimento desktop, mobile e web, decidi seguir na área de FullStack.</h4>
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_odejota/)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/djavan-oliveira-0852b0164/])
 
 <br>
-<p align="center">
-  <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="160">
-</p>
+
 <p align="center">
 <a href="https://github.com/DeJotaJ">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeJotaJ&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeJotaJ&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeJotaJ&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&layout=compact&theme=tokyonight&ring=70a5fd&fire=a020f0&currStreakLabel=FFFFFF&background=000000" alt="GitHub Streak"/>
-  <!--img src="h80tps://github-readme-streak-stats.herokuapp.com/?user=DeJotaJ&theme=tokyonight&ring=0099DD&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak"/-->
   </a>
 </p>
 </p>
