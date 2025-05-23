@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-  <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="350">
+  <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="160">
 </p>
 <p align="center">
 <a href="https://github.com/DeJotaJ">
