@@ -2,7 +2,7 @@
 
 <h3>Sou Desenvolvedor FullStack com experiência em React, Node.js, Express, MySQL e APIs REST.
 <br>
-Hoje, foco em construir aplicações completas, desde a camada de UI responsiva e otimizada até a integração com banco de dados e autenticação segura.
+Foco em construir aplicações completas, desde a camada de UI responsiva e otimizada até a integração com banco de dados e autenticação segura.
 Busco constantemente aprender novas ferramentas e boas práticas para entregar soluções escaláveis, seguras e eficientes."</h3>
 <br>
 <p align="center">
