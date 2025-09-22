@@ -1,7 +1,6 @@
 ## Hi, DeJota there 👋
 
 <h3>Sou Desenvolvedor FullStack com experiência em React, Node.js, Express, MySQL e APIs REST.
-Meu primeiro contato com programação foi em um curso técnico integrado ao ensino médio, explorando desenvolvimento desktop, mobile e web.
 <br>
 Hoje, foco em construir aplicações completas, desde a camada de UI responsiva e otimizada até a integração com banco de dados e autenticação segura.
 Busco constantemente aprender novas ferramentas e boas práticas para entregar soluções escaláveis, seguras e eficientes."</h3>
