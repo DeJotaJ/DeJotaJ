@@ -1,14 +1,11 @@
 ## Hi, DeJota there 👋
 
-
-
-<h4>Meu primeiro contato com programação foi em um curso técnico integrado ao ensino médio, explorando desenvolvimento desktop, mobile e web, decidi seguir na área de FullStack.</h4>
-
-<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_odejota/)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/djavan-oliveira-0852b0164/])
-
+<h4>Sou Desenvolvedor FullStack com experiência em React, Node.js, Express, MySQL e APIs REST.
+Meu primeiro contato com programação foi em um curso técnico integrado ao ensino médio, explorando desenvolvimento desktop, mobile e web.
 <br>
-
+Hoje, foco em construir aplicações completas, desde a camada de UI responsiva e otimizada até a integração com banco de dados e autenticação segura.
+Busco constantemente aprender novas ferramentas e boas práticas para entregar soluções escaláveis, seguras e eficientes."</h4>
+<br>
 <p align="center">
 <a href="https://github.com/DeJotaJ">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeJotaJ&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
